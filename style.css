@@ -247,4 +247,8 @@ form button:hover {
     .cards img {
         width: 100%;
     }
+    .form {
+        display: flex;
+        gap: 22px;
+        }
 }
