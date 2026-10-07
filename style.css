@@ -185,7 +185,7 @@ ul {
     box-shadow: 0 4px 12px #0c0c0c26;
 }
 
-.form {
+form {
     display: flex;
     flex-direction: column;
     gap: 15px;
@@ -247,7 +247,7 @@ form button:hover {
     .cards img {
         width: 100%;
     }
-    .form {
+    form {
         display: flex;
         gap: 22px;
         }
